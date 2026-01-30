@@ -1,6 +1,3 @@
-# 💫 About Me:
-Currently working on my Project Coloc <br>Looking for a full-time Software Development Job in the Web Domain <br>Love to cook- usually watching culinary-related vids or tech podcasts<br>
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@veryharsh_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/veryharsh) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@veryharsh_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshahuja1179@gmail.com) 
